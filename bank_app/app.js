@@ -26,4 +26,4 @@ acc.diposit(300);
 acc.withdraw(200);
 
 console.log(acc.getBalance());
-console.log(acc.displayAccountInfo);
+console.log(acc.displayAccountInfo());
